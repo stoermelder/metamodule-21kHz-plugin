@@ -1,0 +1,23 @@
+{
+  "MetaModuleBrandName": "21kHz",
+  "MetaModuleBrandSlug": "21kHz",
+  "MetaModulePluginMaintainer": "Benjamin Dill",
+  "MetaModulePluginMaintainerEmail": "stoermelder@outlook.com",
+  "MetaModulePluginMaintainerUrl": "https://github.com/stoermelder/metamodule-21kHz-plugin",
+  "MetaModuleDescription": "21kHz for MetaModule",
+  "MetaModuleIncludedModules":
+  [
+    {
+      "slug": "kHzPalmLoop",
+      "name": "PalmLoop"
+    },
+    {
+      "slug": "kHzTachyonEntangler",
+      "name": "TachyonEntangler"
+    },
+    {
+      "slug": "kHzD_Inf",
+      "name": "D\u221e"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+[submodule "21kHz-rack-plugins"]
+	path = 21kHz-rack-plugins
+	url = https://github.com/netboy3/21kHz-rack-plugins.git
